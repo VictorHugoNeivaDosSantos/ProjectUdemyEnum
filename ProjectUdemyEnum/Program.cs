@@ -11,7 +11,7 @@ namespace ProjectUdemyEnum
         {
 
 
-            Order order = new Order(150,DateTime.Now,"PagamentConfirmed");
+            Order order = new Order(150,DateTime.Now,"PagamentConfirmed -");
 
             Console.WriteLine(order);
 
